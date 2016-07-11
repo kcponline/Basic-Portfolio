@@ -211,6 +211,11 @@ footer {
 .portfolio-container {
 	margin-top: 40px;
 	width: 588px;
+	background-color: yellow;
+}
+
+.work {
+	background-color: red;
 }
 
 #hangman,
@@ -220,6 +225,8 @@ footer {
 #rock-paper-scissors {
 	width: 275px;
 	height: 200px;
+	position: relative;
+	float: left;
 }
 
 #hangman,
@@ -239,6 +246,7 @@ footer {
 	text-align: center;
 	width: 275px;
 	line-height: 60px;
+	float: left;
 }
 
 #hangman,
