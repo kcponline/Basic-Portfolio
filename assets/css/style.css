@@ -6,8 +6,8 @@
 
 
 body {
-	
-	background: beige;
+	background: url("../images/cork-wallet.png");
+	/*background: beige;*/
 	font-family: 'Arial', 'Helvetica Neue', Helvetica, sans-serif;
 	color: #777777;
 
